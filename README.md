@@ -1,5 +1,5 @@
 # vdrpc
-Python script that adds Discord Rich Presence for VVVVVV.  
+Python script that adds Discord Rich Presence for the game [VVVVVV](https://thelettervsixtim.es/).  
 ![Preview](https://i.imgur.com/JYT6D9j.png)
 
 ## Requirements
