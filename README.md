@@ -9,7 +9,7 @@ Python script that adds Discord Rich Presence for the game [VVVVVV](https://thel
 ## Requirements
 * Python 3.8 or newer
 * The following Python packages:
-    * [pypresence](https://pypi.org/project/pypresence/1.0.2/)
+    * [pypresence](https://pypi.org/project/pypresence/)
     * [pymem](https://pypi.org/project/Pymem/)
 
 ## How to use
